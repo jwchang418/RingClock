@@ -6,4 +6,4 @@ It only requires a few of compoments in this small project.
 | item | quantity |
 | ---- | ---- |
 | raspberry pi pico w | 1 |
-| ws2812 ring | 1 |
+| 12 bit ws2812 LED ring | 1 |
