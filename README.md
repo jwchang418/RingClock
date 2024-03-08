@@ -21,7 +21,7 @@ This project adopt MicroPython as the programming language, hence we have to set
 | Gnd | -> | Gnd |
 
 ## Thonny
-We use Thonny as development enviroment, which can be downloaded at [here](https://thonny.org/).
+We use Thonny as development enviroment which can be downloaded at [here](https://thonny.org/).
 
 ## Code
 Save the code as main.py into the raspberry pi pico w.
