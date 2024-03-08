@@ -11,7 +11,7 @@ It only requires a few of compoments in this small project.
 | dupont line | 3 |
 
 ## Installing
-This project adopt MicroPython as the programming language, hence we have to setup the MicroPython on the raspberry pi pico. At raspberry pi's official webside [here](https://www.raspberrypi.com/documentation/microcontrollers/micropython.html), we can find the explain of setup in detail.
+This project adopts MicroPython as the programming language, hence we have to setup the MicroPython on the raspberry pi pico. At raspberry pi's official webside [here](https://www.raspberrypi.com/documentation/microcontrollers/micropython.html), we can find the explain of setup in detail.
 
 ## Pin Connection
 | raspberry pi pico w | | 12 bit ws2812 LED ring |
